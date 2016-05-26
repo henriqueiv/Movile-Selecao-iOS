@@ -1,0 +1,6 @@
+framework module Pods_Movile_selecao_ios {
+  umbrella header "Pods-Movile-selecao-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
